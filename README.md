@@ -18,6 +18,4 @@ Your newspaper should have:
 Come up with your own story. It can be anything, including satire or the recreation of an existing article somewhere. Make sure it looks nice so that someone could obviously tell it's suppose to be a newspaper.
 Extra Credit:
 
-Add a "Classifieds" section to your the newspaper. Title at top (block), classifieds cards with borders (inline-block), some of them could have images, whatever else you want to add. Here's an example of the classifieds section:
-
-Example: https://coursework.vschool.io/content/images/2018/12/Classified-Newspaper-Ad-Template-.jpeg
+Add a "Classifieds" section to your the newspaper. Title at top (block), classifieds cards with borders (inline-block), some of them could have images, whatever else you want to add. Here's an <a href="https://coursework.vschool.io/content/images/2018/12/Classified-Newspaper-Ad-Template-.jpeg">example</a> of the classifieds section:
